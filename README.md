@@ -23,3 +23,5 @@ Hackaday project: [QuotidianMoon](https://hackaday.io/project/206893-quotidianmo
 
 More photos at Flickr: [QuotidianMoon](https://flic.kr/s/aHBqjD6XjF)
 
+YouTube video: [QuotidianMoon](https://youtu.be/cn6hoSS19BQ)
+

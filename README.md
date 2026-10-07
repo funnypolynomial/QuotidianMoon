@@ -1,5 +1,5 @@
 # QuotidianMoon
-An Arduino project showing the current Moon Phase on a small eInk display using an *LDR* rather than an RTC or an Internet connection.
+An Arduino project showing the current Moon Phase on a small ePaper display using an *LDR* rather than an RTC or an Internet connection.
 
 <img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/22032830-c652-4a4e-87f4-20e549ee7f6f" />
 
@@ -15,7 +15,7 @@ The time will always be a little off, but for our purposes that doesn't matter -
 
 <img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/11c4ace8-8a8a-45d7-aa90-eb7f0d9a3a5b" />
 
-There's a small 128x32 OLED display and two push-buttons for configuration etc (the eInk is too slow for interaction).  Two other faces are available: a calendar and just the current date.
+There's a small 128x32 OLED display and two push-buttons for configuration etc (the ePaper is too slow for interaction).  Two other faces are available: a calendar and just the current date.
 
 <img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/7a6a919d-5950-419f-a187-4c7477232696" />
 

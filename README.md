@@ -21,3 +21,5 @@ There's a small 128x32 OLED display and two push-buttons for configuration etc (
 
 Hackaday project: [QuotidianMoon](https://hackaday.io/project/206893-quotidianmoon)
 
+More photos at Flickr: [QuotidianMoon](https://flic.kr/s/aHBqjD6XjF)
+

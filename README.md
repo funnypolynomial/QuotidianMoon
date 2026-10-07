@@ -9,7 +9,7 @@ The code keeps track of the approximate time and date using the Atmega32U4's bui
 
 To keep the *drift constrained*, the code monitors the LDR. Every minute the LDR reading (i.e. ambient light) is classified as Dark or Light (Night or Day). These values are averaged into 10-minute intervals also classified as Dark or Light.
 
-When this monitoring code detects a Light interval that was preceded by sufficiently long period of Dark intervals if conclude that *dawn* has occurred. It assumes the Dark period was night and that *midnight* was the midpoint.  It adjust the approximate time accordingly. The date will have already advanced.  Note that there are sanity checks applied to the adjustment and shift factors.
+When this monitoring code detects a Light interval that was preceded by sufficiently long period of Dark intervals it concludes that *dawn* has occurred. It assumes the Dark period was night and that *midnight* was the midpoint.  It adjust the approximate time accordingly. The date will have already advanced.  Note that there are sanity checks applied to the adjustment and shift factors.
 
 The time will always be a little off, but for our purposes that doesn't matter -- the date is the important thing and it should never deviate.
 
